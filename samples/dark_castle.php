@@ -7,7 +7,7 @@ include("login.php");
 session_start();
 $userSessionID = $_SESSION['UserSession'];
 
-if (session_id() === $_COOKIE['PHPSESSID'] && isset($_SESSION['UserSession'])) {
+if (session_id() === $_COOKIE['Session'] && isset($_SESSION['UserSession'])) {
 
     function query($sql, ...$params) {
         global $mysqli;
@@ -18,6 +18,8 @@ if (session_id() === $_COOKIE['PHPSESSID'] && isset($_SESSION['UserSession'])) {
         $stmt->execute();
         return $stmt->get_result();
     }
+
+// ...there stood a Dark Castle
 
     function fetchData($userSessionID, $castleID, $order, $limit, $offset) {
         $records = array();
@@ -44,8 +46,6 @@ if (session_id() === $_COOKIE['PHPSESSID'] && isset($_SESSION['UserSession'])) {
 
         echo json_encode($records);
     }
-
-    // ...there stood a Dark Castle
 
     switch ($_POST["command"]) {
         case "FetchCastleData":
