@@ -39,8 +39,8 @@ Please refer to the [Changelog](.github/CHANGELOG.md) file in this repository fo
 
 ## Additional Information
 
-- [Main GitHub Repository](https://github.com/scottgriv/Dark-Castle-Theme).
-- [Visit our Website](https://darkcastle.netlify.app/).
+- [Main GitHub Repository](https://github.com/scottgriv/Dark-Castle-Theme)
+- [Visit our Website](https://darkcastle.netlify.app/)
 
 ## License
 
