@@ -1,4 +1,4 @@
-# Contributing to Dark Castle Theme for Example
+# Contributing to Dark Castle Theme
 
 If you would like to contribute to an existing theme and/or port over **Dark Castle** to a missing platform:
 
