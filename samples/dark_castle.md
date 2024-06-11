@@ -1,12 +1,6 @@
-<!--
-  In a land shrouded in mystery...
--->
+# Markdown File Example
 
-# Dark Castle Theme
-
-> Dark Castle theme for VS Code.
-
-![Preview](images/preview.gif)
+> Quote block!
 
 ## Installation
 
@@ -35,11 +29,7 @@
     - [Emphasis](#emphasis)
     - [Task Lists](#task-lists)
 
-<!--
-  ...there stood a Dark Castle
--->
-
-### Usage
+## Usage
 
 Apply the Dark Castle theme to your VS Code editor to enjoy a dark, visually appealing coding environment.
 
@@ -72,7 +62,7 @@ include("login.php");
 session_start();
 $userSessionID = $_SESSION['UserSession'];
 
-if (session_id() === $_COOKIE['PHPSESSID'] && isset($_SESSION['UserSession'])) {
+if (session_id() === $_COOKIE['Session'] && isset($_SESSION['UserSession'])) {
 
     function query($sql, ...$params) {
         global $mysqli;
@@ -84,7 +74,6 @@ if (session_id() === $_COOKIE['PHPSESSID'] && isset($_SESSION['UserSession'])) {
         return $stmt->get_result();
     }
 ```
-
 ```html
 <!-- HTML example -->
 <!DOCTYPE html>
@@ -120,7 +109,6 @@ if (session_id() === $_COOKIE['PHPSESSID'] && isset($_SESSION['UserSession'])) {
 ### Horizontal Rule
 
 --------------------
-
 ### Blockquotes
 
 > This is a blockquote.
