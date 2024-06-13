@@ -30,10 +30,10 @@ def create_castle(data):
 
 # Example data for creating a Dark Castle
 example_data = {
-    'name': 'Moonshadow Fortress',
+    'name': "Moonshadow Fortress",
     'construction_year': 980,
     'destruction_year': 1503,
-    'features': ['Eerie Glow', 'High Battlements']
+    'features': ["Eerie Glow", "High Battlements"]
 }
 
 # Creating a Dark Castle and printing the result
