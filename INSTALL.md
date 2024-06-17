@@ -1,4 +1,4 @@
-### Dark Castle Theme for [Example](https://example.com)
+### [Example Platform](https://example.com)
 
 #### Install using Git
 
