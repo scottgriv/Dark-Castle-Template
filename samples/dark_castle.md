@@ -4,12 +4,12 @@
 
 ## Installation
 
-1. Install [Visual Studio Code](https://code.visualstudio.com/)
-2. Launch Visual Studio Code
+1. Install [Example Platform](https://example.com)
+2. Launch Example
 3. Choose **Extensions** from the menu
 4. Search for `Dark Castle`
 5. Click **Install** to install it
-6. Click **Reload** to reload VS Code
+6. Click **Reload** to reload your IDE
 7. File > Preferences > Color Theme > **Dark Castle**
 
 ## Table of Contents
@@ -31,7 +31,7 @@
 
 ## Usage
 
-Apply the Dark Castle theme to your VS Code editor to enjoy a dark, visually appealing coding environment.
+Apply the Dark Castle theme to your favorite editor to enjoy a dark, visually appealing coding environment.
 
 ## Examples
 
