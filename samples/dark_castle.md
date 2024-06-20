@@ -109,6 +109,7 @@ if (session_id() === $_COOKIE['Session'] && isset($_SESSION['UserSession'])) {
 ### Horizontal Rule
 
 --------------------
+
 ### Blockquotes
 
 > This is a blockquote.
@@ -146,6 +147,6 @@ To display inline code, use backticks: `inline code`.
 
 ### Task Lists
 
-- [x] Install Visual Studio Code
+- [x] Install Example Platform
 - [x] Install Dark Castle theme
 - [ ] Apply Dark Castle theme
