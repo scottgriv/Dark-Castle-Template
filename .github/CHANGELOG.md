@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Official release of **Dark Castle Theme for Example**.
 
-[1.0.0]: https://github.com/scottgriv/Dark-Castle-Example/releases/tag/v1.0.0
+[1.0.0]: https://github.com/scottgriv/Dark-Castle-Example/releases/tag/1.0.0
 
 > ![CAUTION]
 > This is just an example Changelog, please remove this section and update the above accordingly prior to creating a version release.
