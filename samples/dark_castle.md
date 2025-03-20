@@ -118,7 +118,7 @@ if (session_id() === $_COOKIE['Session'] && isset($_SESSION['UserSession'])) {
 
 ### Images
 
-![Example Image](https://via.placeholder.com/150)
+![Example Image](https://placehold.co/150)
 
 ### Links
 
